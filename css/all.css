@@ -1,0 +1,23 @@
+body {
+    background-color: #127055;
+    overflow-y: hidden;
+    border: 46px solid #6F3B13;
+    margin: 0px;
+    padding: 0px;
+}
+.chalkBtn {
+    height: 54px;
+    width: 75px;
+    cursor: pointer;
+    outline: none;
+    background: none;
+    border: 1px solid #ffffff;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 24px;
+    margin: 0px 4px;
+}
+.textGrp, .ansBtns {
+    padding: 0px 40px;
+    color: #ffffff;
+}
